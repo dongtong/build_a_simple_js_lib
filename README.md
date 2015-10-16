@@ -1,2 +1,7 @@
-# build_a_simple_js_lib
-Build a simple javascript library
+# Build a simple javascript
+
+* Define a namespace
+* create private variable in JavaScript
+* Using JavaScript module pattern
+* Using version control
+* Build out library
